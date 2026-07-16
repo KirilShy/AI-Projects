@@ -1,0 +1,5 @@
+Pillow
+google
+matplotlib
+numpy
+tensorflow
