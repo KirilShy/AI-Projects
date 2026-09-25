@@ -16,5 +16,8 @@ Keras/TensorFlow CNN for handwritten digit recognition on MNIST, achieving ~98.2
 ### [ai-snake-rl](ai-snake-rl/)
 A Snake-playing agent trained with reinforcement learning, with a Pygame environment and a modular agent/model/training loop.
 
+### [kaggle-titanic](kaggle-titanic/)
+Kaggle Titanic survival prediction with scikit-learn. Feature engineering (titles, fare per person, group size), a gradient-boosting pipeline and a woman-child family-group rule reach ~85.0% cross-validated accuracy.
+
 ### [john-assistant](john-assistant/)
 A modular personal AI assistant built from scratch, supporting multi-turn chat, a GUI, voice input (Whisper), and natural text-to-speech (ElevenLabs).

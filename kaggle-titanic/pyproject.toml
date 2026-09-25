@@ -1,0 +1,13 @@
+[project]
+name = "titanic"
+version = "0.1.0"
+description = "Kaggle Titanic survival prediction with scikit-learn"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
+]
